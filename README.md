@@ -62,7 +62,7 @@ The MAX30102 measures blood oxygen levels (SpO2) and heart rate (HR) using a com
 ---
 
 ## 5. Demo
-### 🔗 BLE Communication Demo – ESP32 Receiving Data Packets  
+### 🔗 BLE Packet advertising process
 [![BLE Packet Reception](https://img.youtube.com/vi/YfaoEofEVxw/0.jpg)](https://youtube.com/shorts/YfaoEofEVxw?feature=share)  
 This video demonstrates how the ESP32 continuously broadcasts data packets using BLE advertising.
 
